@@ -8,7 +8,5 @@ int main() {
     char letra = 'a';
     char nome[20] = "João";
 
-    
-
-
+   
 }
